@@ -1,6 +1,5 @@
 
 import java.io.*;
-import java.io.*;
 import javax.swing.*;
 public class FileLoader
 {
