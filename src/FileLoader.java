@@ -23,7 +23,7 @@ public class FileLoader
         }//end catch
      }//end load file method
      
-     public void MatrixLoader(String fileTextLine, int lineNum)throws gameFileError
+     public void matrixLoader(String fileTextLine, int lineNum)throws gameFileError
      {
         // exitCount=0;//we must reset our variables to zero for the next level.              
         
